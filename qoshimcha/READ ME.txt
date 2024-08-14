@@ -1,0 +1,3 @@
+Myproject zip faylda o'zimni proyektim
+online_shop zip faylda guruh bilan qilingan proyekt, 
+github guruh bilan qilingan project: https://github.com/onlineshop1/online_shop
